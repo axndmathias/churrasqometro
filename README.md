@@ -26,7 +26,7 @@
     </a>
 </p>
 
-## 💻 Projeto
+## Projeto
 
 churrasQômetro é um projeto desenvolvido com o objetivo de calcular a quantidade necessária de bebida e carne para realização de um churrasco entre amigos. 
 
@@ -46,7 +46,7 @@ Regra de negócio caso o evento ultrapasse 6 horas de duração:
 - Cerveja: É acrescido mais 800 mililitros.
 - Refrigerante: É acrescido mais 500 mililitros.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -67,7 +67,7 @@ Utilitários
 Demostração da aplicação web
 https://axndmathias.github.io/churrasqometro/
 
-## 📝 Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
